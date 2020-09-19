@@ -10,7 +10,6 @@ void test_PSid(void);
 void test_ph(void);
 void test_clss(void);
 
-/* Start of the application test */
 int main() {
 
   /*Initialize and setup the Test Framework */
