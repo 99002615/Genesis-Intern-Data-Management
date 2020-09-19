@@ -281,8 +281,9 @@ main:
 
         fflush(stdin);
 
-        printf("..::Phone:");
-
+        printf("..::Phone:"); 
+            
+          
         scanf("%ld",&list.ph);
 
         fflush(stdin);
